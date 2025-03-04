@@ -25,7 +25,7 @@ In many online platforms, particularly those handling personal data, certain fie
 6. **Verifying the Exploit:**\
    The attacker then reviews the account information to confirm that the sensitive data has been successfully altered, bypassing the intended immutability designed to protect the integrity of the verification process.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Key Observations**
 
@@ -64,4 +64,4 @@ To remediate this vulnerability and enhance overall security, the following meas
 
 The vulnerability allowing the unauthorized modification of sensitive data in unverified accounts is a serious security risk. By exploiting client-side weaknesses—specifically the lack of robust server-side validation—attackers can alter critical user information, potentially leading to identity fraud, regulatory non-compliance, and reputational damage for the platform. Implementing stringent server-side validation, reinforcing access controls, utilizing request integrity mechanisms, and enhancing monitoring can significantly reduce the risk and help safeguard user data.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

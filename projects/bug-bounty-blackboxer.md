@@ -1,6 +1,6 @@
 # 🚪 Bug Bounty - BlackBoxer
 
-![Logo-Nmap](https://github.com/user-attachments/assets/7d2183e6-2968-456b-9df0-a2d2542ac3c4)
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **BlackBoxer Script Documentation**
 
