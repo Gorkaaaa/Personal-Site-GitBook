@@ -18,3 +18,7 @@
 * [🚪 Bug Bounty - BlackBoxer](projects/bug-bounty-blackboxer.md)
 * [🫀 Bug Bounty - BugHorizon](projects/bug-bounty-bughorizon.md)
 * [🦅 Bug Bounty - Disclosure Search](projects/bug-bounty-disclosure-search.md)
+
+## 🧠 Bug Bounty
+
+* [🎲 Party Poker BAC](bug-bounty/party-poker-bac.md)
