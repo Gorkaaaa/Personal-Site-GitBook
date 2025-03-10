@@ -20,6 +20,7 @@
 
 * [🪛 Open Redirect](open-redirect.md)
 * [🪛 Open Redirect #2](open-redirect-2.md)
+* [💼 CSRF](csrf.md)
 
 ## 🌦️ PROJECTS
 
