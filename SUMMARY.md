@@ -16,6 +16,11 @@
 * [🔐 Account Take Over oAuth](bug-bounty/account-take-over-oauth.md)
 * [🎒 BAC](bug-bounty/bac.md)
 
+***
+
+* [🪛 Open Redirect](open-redirect.md)
+* [🪛 Open Redirect #2](open-redirect-2.md)
+
 ## 🌦️ PROJECTS
 
 * [🕸️ Bug Bounty - Web Resource](projects/bug-bounty-web-resource.md)
