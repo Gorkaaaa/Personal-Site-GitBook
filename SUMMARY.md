@@ -11,15 +11,22 @@
 * [🤺 OSCP](offsec/oscp.md)
 * [🕯️ OSCP+](offsec/oscp+.md)
 
+## 👩‍🏫 Monlau
+
+* [☂️ Autoconeixement](monlau/autoconeixement.md)
+* [🚪 Sortidas](monlau/sortidas.md)
+* [🚀 Autocandidatura](monlau/autocandidatura.md)
+* [📜 Taller de CV](monlau/taller-de-cv.md)
+
 ## 🧠 Bug Bounty
 
 * [🔐 Account Take Over oAuth](bug-bounty/account-take-over-oauth.md)
-* [🎒 BAC](bug-bounty/bac.md)
+* [🧬 BAC](bug-bounty/bac.md)
 
 ***
 
-* [🪛 Open Redirect](open-redirect.md)
-* [🪛 Open Redirect #2](open-redirect-2.md)
+* [🎒 Open Redirect](open-redirect.md)
+* [🎒 Open Redirect #2](open-redirect-2.md)
 * [💼 CSRF](csrf.md)
 
 ## 🌦️ PROJECTS

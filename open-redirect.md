@@ -1,4 +1,4 @@
-# 🪛 Open Redirect
+# 🎒 Open Redirect
 
 ### Vulnerability Description
 

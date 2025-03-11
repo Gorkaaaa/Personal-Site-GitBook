@@ -1,4 +1,4 @@
-# 🪛 Open Redirect #2
+# 🎒 Open Redirect #2
 
 Summary
 
