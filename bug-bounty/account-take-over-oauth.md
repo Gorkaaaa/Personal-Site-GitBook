@@ -32,7 +32,7 @@ The following steps detail how an attacker could exploit this vulnerability:
 4. **Account Control:**\
    Once logged in, the attacker is able to change critical account details such as the email address, password, and any personal information stored in the account. This effectively locks out the legitimate user and enables the attacker to fully control the account.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,6 +88,6 @@ The discovered vulnerability in the authentication system of **example.com** rep
 
 Immediate remediation is critical not only to protect user data but also to maintain the integrity and trustworthiness of the platform. Addressing these issues will help prevent potential security breaches and safeguard the interests of all users.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***

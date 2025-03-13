@@ -141,6 +141,6 @@ Create an HTML file (e.g., `csrf_attack.html`) with the following content:
 
 The absence of a CSRF protection mechanism in the university’s contact endpoint poses a significant vulnerability that can be exploited to perform unauthorized actions on behalf of users, compromising data integrity and institutional reputation. The provided reproduction steps illustrate how an attacker could leverage this vulnerability by tricking an authenticated user into executing an unintended request. Mitigation is essential to safeguard personal information and maintain the security of the system. Implementing robust controls such as CSRF tokens, origin validation, and additional security measures is strongly recommended.
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ***

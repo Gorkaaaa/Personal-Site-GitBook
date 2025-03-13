@@ -23,19 +23,19 @@ The **returnTo** parameter is not properly validated, allowing an attacker to in
    * Note that the URL parameter `returnTo` has been set to `https://google.com` as a test value.
    *
 
-       <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 2. **Observe the Redirection:**
    * Upon accessing the URL, the application processes the request and automatically redirects the user to the provided URL (in this example, Google).
    *
 
-       <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 3. **Verification:**
    * Replace `https://google.com` with any other URL under your control to confirm that the redirection occurs as expected.
    *
 
-       <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-       <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -111,6 +111,6 @@ The business impact of an open redirect vulnerability extends beyond the immedia
 
 The open redirect vulnerability identified in the staging environment poses significant technical and business risks. By allowing arbitrary redirection through the **returnTo** parameter, the system can be exploited for phishing, malware distribution, and other malicious activities. Implementing strict validation, whitelisting, and additional user confirmation measures is critical to mitigate this vulnerability and protect both users and the business.
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ***

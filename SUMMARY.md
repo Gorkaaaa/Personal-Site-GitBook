@@ -20,19 +20,16 @@
 
 ## 🧠 Bug Bounty
 
-* [🔐 Account Take Over oAuth](bug-bounty/account-take-over-oauth.md)
 * [🧬 BAC](bug-bounty/bac.md)
-
-***
-
-* [🎒 Open Redirect](open-redirect.md)
-* [🎒 Open Redirect #2](open-redirect-2.md)
-* [💼 CSRF](csrf.md)
+* [🔐 Account Take Over oAuth](bug-bounty/account-take-over-oauth.md)
+* [🎒 Open Redirect](bug-bounty/open-redirect.md)
+* [🎒 Open Redirect #2](bug-bounty/open-redirect-2.md)
+* [💼 CSRF](bug-bounty/csrf.md)
 
 ## 🌦️ PROJECTS
 
-* [🕸️ Bug Bounty - Web Resource](projects/bug-bounty-web-resource.md)
 * [🕵️‍♂️ Bug Bounty - Sublisting](projects/bug-bounty-sublisting.md)
 * [🚪 Bug Bounty - BlackBoxer](projects/bug-bounty-blackboxer.md)
 * [🫀 Bug Bounty - BugHorizon](projects/bug-bounty-bughorizon.md)
 * [🦅 Bug Bounty - Disclosure Search](projects/bug-bounty-disclosure-search.md)
+* [🕸️ Bug Bounty - Web Resource](projects/bug-bounty-web-resource.md)

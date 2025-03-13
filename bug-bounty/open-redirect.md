@@ -16,7 +16,7 @@ The vulnerability arises because the **post\_logout\_redirect\_uri** parameter i
        ```
    *
 
-       <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 2. **Modify the Parameter:**
    *   Append or modify the **post\_logout\_redirect\_uri** parameter to point to a URL under the attacker's control, for example:
 
@@ -30,15 +30,15 @@ The vulnerability arises because the **post\_logout\_redirect\_uri** parameter i
        ```
    *
 
-       <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Execution and Observation:**
    * Share the modified link with a victim.
    * When the victim logs out, they will be redirected to [_https://evil.com_](https://evil.com/).
    *
 
-       <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-       <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -78,6 +78,6 @@ The vulnerability arises because the **post\_logout\_redirect\_uri** parameter i
 
 Although open redirect vulnerabilities might seem trivial, they can be leveraged in conjunction with phishing and data theft tactics to execute significant attacks. By enforcing strict validation and restricting redirect parameters to a trusted whitelist, the risk can be mitigated, protecting both users and the integrity of the service.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
