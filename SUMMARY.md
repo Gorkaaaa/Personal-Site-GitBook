@@ -18,13 +18,19 @@
 * [🚀 Autocandidatura](monlau/autocandidatura.md)
 * [📜 Taller de CV](monlau/taller-de-cv.md)
 
-## 🧠 Bug Bounty
+## 🧠 Bug Bounty Hunting
 
-* [🧬 BAC](bug-bounty/bac.md)
-* [🔐 Account Take Over oAuth](bug-bounty/account-take-over-oauth.md)
-* [🎒 Open Redirect](bug-bounty/open-redirect.md)
-* [🎒 Open Redirect #2](bug-bounty/open-redirect-2.md)
-* [💼 CSRF](bug-bounty/csrf.md)
+* [🪖 Inf Disclosure 🚀NASA](bug-bounty-hunting/inf-disclosure-nasa.md)
+* [🪖 Inf Disclosure #2 🚀NASA](bug-bounty-hunting/inf-disclosure-2-nasa.md)
+* [🪖 Inf Disclosure #3 👩🏻‍🎓 RMIT University](bug-bounty-hunting/inf-disclosure-3-rmit-university.md)
+* [⚔️ BAC 🎰Casino](bug-bounty-hunting/bac-casino.md)
+* [⚔️ BAC 👩🏻‍🎓RMIT University](bug-bounty-hunting/bac-rmit-university.md)
+* [🔐 Account Take Over oAuth  🍴The Fork](bug-bounty-hunting/account-take-over-oauth-the-fork.md)
+* [🎒 Open Redirect  🍔Just Eat](bug-bounty-hunting/open-redirect-just-eat.md)
+* [🎒 Open Redirect #2 💶CoinDesk](bug-bounty-hunting/open-redirect-2-coindesk.md)
+* [🎒 Open Redirect #3 👩🏻‍🎓RMIT University](bug-bounty-hunting/open-redirect-3-rmit-university.md)
+* [🦹‍♂️ Account Take Over (via XSS)  👩🏻‍🎓RMIT University](bug-bounty-hunting/account-take-over-via-xss-rmit-university.md)
+* [🚧 Miss Configuration 👩🏻‍🎓RMIT University](bug-bounty-hunting/miss-configuration-rmit-university.md)
 
 ## 🌦️ PROJECTS
 
