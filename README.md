@@ -21,11 +21,11 @@ layout:
 
 # 🦹‍♂️ Welcome
 
-🕵🏻‍♂️ Hello, my name is Gorka, I am a student of microcomputer systems at a high school in Barcelona. I am very passionate about cybersecurity, and I currently focus on bug bounty hunting, continuously learning and improving my skills in ethical hacking.
+🕵🏻‍♂️ Hello, my name is <mark style="color:red;">**Gorka**</mark>, I am a student of <mark style="color:purple;">**microcomputer systems**</mark> at a high school in <mark style="color:yellow;">**Barcelona**</mark>. I am very passionate about **cybersecurity**, and I currently focus on <mark style="color:red;">**bug bounty hunting**</mark>, continuously learning and improving my skills in <mark style="color:yellow;">**ethical hacking**</mark>.
 
-🧠 I always strive to expand my knowledge and share everything I learn with the community. For me, it is essential to see tangible results in every area of cybersecurity that I specialize in, which is why I constantly work on improving my skills and demonstrating them through practical experience.
+🧠 I always strive to <mark style="color:purple;">**expand my knowledge**</mark> and <mark style="color:red;">**share everything I learn with the community**</mark>. For me, it is essential to see tangible results in every area of cybersecurity that I specialize in, which is why               <mark style="color:yellow;">**I constantly work on improving my skills and demonstrating them through practical experience**</mark>.
 
-👨🏻‍💻 I am really excited to share my content with you and contribute to the cybersecurity community. My expertise spans various areas, combining a strong foundation in cybersecurity with full-stack programming knowledge using React, MongoDB, and Node.js. Additionally, in the cybersecurity field, I have strong skills in Python, Go and Bash scripting.
+👨🏻‍💻 I am really excited to share my content with you and contribute to the <mark style="color:red;">**cybersecurity community**</mark>. My expertise spans various areas, combining a strong foundation in cybersecurity with <mark style="color:purple;">**full-stack programming**</mark> knowledge using <mark style="color:red;">**React, MongoDB, and Node.js**</mark>. Additionally, in the cybersecurity field, I have strong skills in <mark style="color:yellow;">**Python, Go and Bash scripting**</mark>.
 
 ## 🧑‍💼  SOFT SKILLS
 
