@@ -2,7 +2,7 @@
 
 ## 👋 INTRODUCTION
 
-* [🌃 Welcome](README.md)
+* [🦹‍♂️ Welcome](README.md)
 * [☎️ CONTACT](introduction/contact.md)
 * [📑 CURRICULUM VITAE](introduction/curriculum-vitae.md)
 
