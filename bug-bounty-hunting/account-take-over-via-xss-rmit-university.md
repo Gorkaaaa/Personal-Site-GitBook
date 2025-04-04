@@ -1,4 +1,4 @@
-# 🦹‍♂️ Account Take Over (via XSS)  👩🏻‍🎓RMIT University
+# ⛑️ Account Take Over (via XSS)  👩🏻‍🎓RMIT University
 
 ### Summary
 

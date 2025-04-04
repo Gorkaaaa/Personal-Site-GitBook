@@ -1,4 +1,4 @@
-# 🦹‍♂️ Account Take Over oAuth  🍴The Fork
+# ⛑️ Account Take Over oAuth  🍴The Fork
 
 ## Overview of the Vulnerability
 
