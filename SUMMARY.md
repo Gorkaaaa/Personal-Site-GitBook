@@ -17,6 +17,7 @@
 * [🚪 Sortidas](monlau/sortidas.md)
 * [🚀 Autocandidatura](monlau/autocandidatura.md)
 * [📜 Taller de CV](monlau/taller-de-cv.md)
+* [👨‍⚖️ Adaptació al canvi](monlau/adaptacio-al-canvi.md)
 
 ## 🧠 Bug Bounty Hunting
 
