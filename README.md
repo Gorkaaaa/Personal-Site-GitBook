@@ -3,20 +3,6 @@ cover: >-
   .gitbook/assets/Fondo de Pantalla Escritorio PC Abstracto Moderno Degradado
   Negro(6).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🧬 Welcome

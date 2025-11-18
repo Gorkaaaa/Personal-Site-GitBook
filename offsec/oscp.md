@@ -1,6 +1,0 @@
----
-description: In progress...
----
-
-# 🤺 OSCP
-
