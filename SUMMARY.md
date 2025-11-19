@@ -6,6 +6,10 @@
 * [☎️ CONTACT](introduction/contact.md)
 * [📑 CURRICULUM VITAE](introduction/curriculum-vitae.md)
 
+## 💞 Work ( Bug Bounty )
+
+* [Page 1](work-bug-bounty/page-1.md)
+
 ## 👩‍🏫 Monlau
 
 * [☂️ Autoconeixement](monlau/autoconeixement.md)
