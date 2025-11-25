@@ -1,4 +1,4 @@
-# 🟥 {P1} Unauthorized Access to Internal Panel
+# 🟥 Unauthorized Access to Internal Panel
 
 ## How I started
 
@@ -24,9 +24,7 @@ In big systems like in this case NASA I test stranger subdomains, I don't focus 
 * Exposed PII Information
 * XSS & HTMLI
 
-
-
 ### Target Recon
 
-
+When I opened the subdomain for firsts time I noted the rare
 

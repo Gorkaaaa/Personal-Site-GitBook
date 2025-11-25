@@ -8,7 +8,7 @@
 
 ## 🚀 NASA BUG BOUNTY
 
-* [🟥 {P1} Unauthorized Access to Internal Panel](nasa-bug-bounty/p1-unauthorized-access-to-internal-panel.md)
+* [🟥 Unauthorized Access to Internal Panel](nasa-bug-bounty/unauthorized-access-to-internal-panel.md)
 
 ## 💞 Work ( Bug Bounty )
 
